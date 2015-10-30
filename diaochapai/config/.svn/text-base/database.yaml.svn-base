@@ -1,0 +1,14 @@
+# <?php die(); ?>
+devel:
+    driver:     pdo_pgsql
+    host:       "192.168.1.200"
+    login:      dev
+    password:   abc
+    database:   "diaochapai.feedback"
+    charset:    utf8
+
+test:
+    _use:       devel
+
+deploy:
+    _use:       devel

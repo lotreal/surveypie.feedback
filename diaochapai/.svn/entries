@@ -1,0 +1,55 @@
+10
+
+dir
+203
+svn://222.215.136.8/surveypie.feedback/diaochapai
+svn://222.215.136.8/surveypie.feedback
+
+
+
+2010-11-08T03:47:34.403964Z
+189
+yangyi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e53d91d8-c06e-df11-a642-002511a3a544
+
+app
+dir
+
+tmp
+dir
+
+log
+dir
+
+config
+dir
+
+db
+dir
+
+lib
+dir
+
+scripts
+dir
+
+modules
+dir
+
+public
+dir
+
